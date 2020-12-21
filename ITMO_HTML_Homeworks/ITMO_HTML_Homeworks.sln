@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homeworks", "Homeworks", "{E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{60D87EA1-55F9-45BB-85A4-34EBD265D04C}"
+	ProjectSection(SolutionItems) = preProject
+		ex1.html = ex1.html
+		ex2.html = ex2.html
+		ex3.html = ex3.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab2", "Lab2", "{3D1DC09A-C568-42E4-B1D4-3B53F5C7D199}"
+	ProjectSection(SolutionItems) = preProject
+		classification.html = classification.html
+		code.html = code.html
+		findings.html = findings.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab3", "Lab3", "{6CED955B-B52C-4506-95DD-FE4D91BA2498}"
+	ProjectSection(SolutionItems) = preProject
+		classification.html = classification.html
+		ex4.html = ex4.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab4", "Lab4", "{BF04253E-1017-4074-87FC-D485F7079EB2}"
+	ProjectSection(SolutionItems) = preProject
+		ex5.html = ex5.html
+		table.html = table.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab5", "Lab5", "{3D453AA4-5A69-4707-97E0-A58058999799}"
+	ProjectSection(SolutionItems) = preProject
+		ex6.html = ex6.html
+		index.html = index.html
+		map.html = map.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab6", "Lab6", "{845A2386-8C3B-41F3-9518-A9A532C1638E}"
+	ProjectSection(SolutionItems) = preProject
+		ex7.html = ex7.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab7", "Lab7", "{8A379560-3CA7-4103-820D-E4EC95DFAE6C}"
+	ProjectSection(SolutionItems) = preProject
+		block_1.html = block_1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60D87EA1-55F9-45BB-85A4-34EBD265D04C} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+		{3D1DC09A-C568-42E4-B1D4-3B53F5C7D199} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+		{6CED955B-B52C-4506-95DD-FE4D91BA2498} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+		{BF04253E-1017-4074-87FC-D485F7079EB2} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+		{3D453AA4-5A69-4707-97E0-A58058999799} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+		{845A2386-8C3B-41F3-9518-A9A532C1638E} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+		{8A379560-3CA7-4103-820D-E4EC95DFAE6C} = {E22DBDD1-2C2C-4CAC-B896-5C98B0950C02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F657FC7C-ECC2-4FBF-AC8A-98F5926BAA21}
+	EndGlobalSection
+EndGlobal
