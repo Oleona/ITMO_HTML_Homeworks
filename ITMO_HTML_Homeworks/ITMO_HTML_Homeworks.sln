@@ -22,6 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab2", "Lab2", "{3D1DC09A-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab3", "Lab3", "{6CED955B-B52C-4506-95DD-FE4D91BA2498}"
 	ProjectSection(SolutionItems) = preProject
+		about_buttons.html = about_buttons.html
 		classification.html = classification.html
 		ex4.html = ex4.html
 		index.html = index.html
@@ -47,7 +48,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab6", "Lab6", "{845A2386-8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab7", "Lab7", "{8A379560-3CA7-4103-820D-E4EC95DFAE6C}"
 	ProjectSection(SolutionItems) = preProject
+		block_1.css = block_1.css
 		block_1.html = block_1.html
+		block_2.css = block_2.css
+		block_2.html = block_2.html
 	EndProjectSection
 EndProject
 Global
